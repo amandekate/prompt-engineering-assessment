@@ -1,1 +1,89 @@
 
+Introduction to Prompt Techniques – Answers
+Exercise 1: Identify the Prompt Technique
+Prompt:
+"Summarize the following paragraph in one sentence."
+Answer: Zero-Shot Prompting
+Explanation:
+This is an example of Zero-Shot Prompting because the AI is asked to perform the task directly without being given any examples beforehand.
+________________________________________
+Exercise 2: Prompt Recognition
+Prompt:
+Example:
+Question: What is AI?
+Answer: AI refers to machines that can perform tasks requiring human intelligence.
+
+Now answer:
+What is Prompt Engineering?
+Answer: One-Shot Prompting
+Explanation:
+This prompt uses One-Shot Prompting because it provides a single example to show the AI the expected style and format before asking a new question.
+________________________________________
+Exercise 3: Choose the Correct Technique
+Scenario:
+You want the AI to follow the same writing style every time while generating responses.
+Answer: Few-Shot Prompting
+Justification:
+Few-Shot Prompting is the best choice because providing multiple examples helps the AI recognize patterns and maintain a consistent writing style across different outputs.
+________________________________________
+Exercise 4: One-Shot Prompt Creation
+Example One-Shot Prompt:
+Example:
+
+Customer Complaint:
+"My order arrived two days late and the package was damaged."
+
+Polite Response:
+"We sincerely apologize for the inconvenience caused by the delay and the damaged package. We understand your frustration and are committed to resolving this issue as quickly as possible."
+
+Now respond to the following complaint in the same polite tone:
+
+Customer Complaint:
+"I was charged twice for my subscription."
+________________________________________
+Exercise 5: Rewrite Using the Correct Technique
+Original Prompt:
+Make this sound professional: "Send this now."
+Improved Prompt (Using One-Shot Prompting):
+Example:
+Informal: "Can you fix this?"
+Professional: "Could you please address this issue at your earliest convenience?"
+
+Now rewrite the following in a professional tone:
+"Send this now."
+________________________________________
+Exercise 6: True or False
+Statement:
+"Few-shot prompting is used when the task is very simple and well-known."
+Answer: False
+Explanation:
+Few-Shot Prompting is mainly used when the AI needs guidance on a specific format, style, or pattern. For simple and familiar tasks, Zero-Shot Prompting is usually sufficient.
+________________________________________
+Exercise 7: Prompt Comparison
+Prompt A:
+Write a product description.
+Prompt B:
+Write a 3-sentence product description for a budgeting app targeting young professionals.
+Answer: Prompt B
+Explanation:
+Prompt B provides clear instructions about the length, product type, and target audience. This additional context helps the AI generate more focused and useful responses.
+________________________________________
+Exercise 8: Technique Selection
+Scenario:
+You want the AI to consistently follow the same writing style across multiple outputs.
+Answer: Few-Shot Prompting
+Reason:
+Using several examples allows the AI to learn the desired writing pattern and apply it consistently in future responses.
+________________________________________
+Exercise 9: Bonus Challenge
+Fill in the blanks:
+•	Simple task, no examples → Zero-Shot Prompting
+•	One example to guide style → One-Shot Prompting
+•	Multiple examples to establish a pattern → Few-Shot Prompting
+________________________________________
+Summary Table
+Prompt Technique	Number of Examples	Best Used For
+Zero-Shot Prompting	0	Simple or well-known tasks
+One-Shot Prompting	1	Demonstrating the desired format or style
+Few-Shot Prompting	2 or more	Maintaining consistency and teaching patterns
+
