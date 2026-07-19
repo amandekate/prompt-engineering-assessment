@@ -1,0 +1,48 @@
+Topic 2 - Prompt Techniques: Zero-Shot, One-Shot & Few-Shot Prompting Made Practical
+Submitted By: Aman Dekate
+Introduction
+Prompt techniques help users communicate more effectively with AI by providing clear instructions and examples when needed. Choosing the right prompting technique improves the accuracy, consistency, and relevance of AI-generated responses. The three main techniques are Zero-Shot, One-Shot, and Few-Shot Prompting.
+Zero-Shot Prompting
+Definition: Zero-Shot Prompting asks the AI to perform a task without any examples.
+
+Example: 'Summarize the following paragraph in one sentence.'
+
+Why: The AI relies only on the instruction.
+
+Best Use Cases: Text summarization, translation, grammar correction, and question answering.
+One-Shot Prompting
+Definition: One-Shot Prompting provides one example before asking the AI to perform a similar task.
+
+Example:
+Question: What is AI?
+Answer: AI refers to machines that can perform tasks requiring human intelligence.
+Now answer: What is Prompt Engineering?
+
+Why: One example guides the expected format.
+
+Best Use Cases: Customer support, email writing, and content generation.
+Few-Shot Prompting
+Definition: Few-Shot Prompting provides multiple examples so the AI learns a pattern.
+
+Example:
+Good morning → Greeting
+Thank you → Appreciation
+Now classify: Congratulations
+
+Why: Multiple examples improve consistency.
+
+Best Use Cases: Classification, structured responses, and maintaining writing style.
+Comparison
+Zero-Shot: No examples; best for simple tasks.
+One-Shot: One example; best for learning a format.
+Few-Shot: Multiple examples; best for pattern recognition and consistency.
+Practical Applications
+These prompting techniques are used in chatbots, virtual assistants, content writing, customer support, translation, summarization, data classification, and code generation.
+Key Learning
+• Understood the differences between Zero-Shot, One-Shot, and Few-Shot Prompting.
+• Learned when to use each technique.
+• Improved my ability to write effective prompts.
+• Understood how examples improve AI responses.
+Conclusion
+Prompt engineering is an essential skill for interacting with AI. Zero-Shot is useful for straightforward tasks, One-Shot provides guidance through a single example, and Few-Shot improves consistency using multiple examples. Selecting the right technique leads to more accurate and reliable AI-generated outputs.
+
