@@ -1,0 +1,76 @@
+Assessment 3
+Topic: Core Prompting Techniques: Teaching AI to Think, Evaluate & Decide
+Submitted By: Aman Dekate
+Introduction
+Core prompting techniques help AI solve complex tasks by encouraging structured reasoning, evaluation, and decision-making. This assessment focuses on Chain-of-Thought (CoT), ReAct, and Self-Consistency prompting and demonstrates their practical use through solved exercises.
+Chain-of-Thought (CoT) Prompting
+Exercise 1: Divisibility by 9
+Rule: A number is divisible by 9 if the sum of its digits is divisible by 9.
+Step 1: 4 + 5 = 9.
+Step 2: 9 is divisible by 9.
+Final Answer: Yes, 45 is divisible by 9.
+Exercise 2: Marketing Message Evaluation
+Target Audience: Businesses looking for ERP solutions.
+Missing Information: Specific benefits, proof, and measurable outcomes.
+Evaluation: The statement is too generic.
+Improved Version: 'Our cloud-based ERP automates business operations, improves productivity, and reduces manual work, helping organizations save time and increase efficiency.'
+Exercise 3: Feature-to-Benefit Thinking
+Cloud-based means the ERP is hosted online and accessed through the internet.
+Benefits: (1) Access from anywhere. (2) Lower IT infrastructure and maintenance costs.
+Conclusion: A cloud-based ERP offers flexibility, scalability, and cost savings.
+Exercise 4: Decision Making
+Excel Limitations: Manual updates, poor collaboration, limited scalability.
+ERP Advantages: Centralized data, automation, real-time reporting.
+Decision: An ERP system is the better long-term solution for a growing startup.
+Exercise 5: Problem Analysis
+Root Cause: Manual data entry.
+Reason for Delays: Repeated work and human errors slow operations.
+Solution: Implement an ERP with automated workflows and centralized data.
+ReAct (Reason + Act) Prompting
+Exercise 1
+Weakness: 'Our software is good' is vague.
+Missing: Benefits and value.
+Improved: 'Our ERP software streamlines operations, reduces manual work, and improves business productivity.'
+Exercise 2
+Weakness: 'Worked on testing' lacks detail.
+Improved: 'Performed functional and regression testing using Jira, identified defects, and improved software quality.'
+Exercise 3
+Weakness: 'Click here' provides no motivation.
+Improved: 'Book your free ERP demo today and discover how to improve your business efficiency.'
+Exercise 4
+Weakness: Lacks benefits.
+Target User: Business owners and managers.
+Improved: 'Our ERP solution helps businesses automate operations, improve visibility, and reduce operational costs.'
+Exercise 5
+Missing Details: System, page, duration, browser, environment.
+Improved: 'The dashboard takes about 12 seconds to load after login in Chrome on Windows 11, affecting user productivity.'
+Self-Consistency Prompting
+Exercise 1
+Version 1: ERP manages business processes.
+Review: Too brief.
+Improved: ERP software integrates finance, HR, inventory, and sales into one system, improving efficiency and decision-making.
+Exercise 2
+Answer 1: ERP manages data.
+Answer 2: ERP integrates business departments.
+Answer 3: ERP automates and connects core business processes.
+Best: Answer 3 because it is the most complete and clear.
+Refined: ERP integrates and automates finance, HR, inventory, and sales, improving collaboration and productivity.
+Exercise 3
+Subject 1: You're Invited to an ERP Demo
+Subject 2: See How ERP Can Improve Your Business
+Better: Subject 2.
+Refined: Join Our Free ERP Demo and Discover Smarter Business Management.
+Exercise 4
+Original: Cloud computing provides online computing resources.
+Simplified: Cloud computing lets you use software and store files over the internet instead of only on your computer.
+Exercise 5
+Initial: ERP helps managers.
+Improved: ERP provides managers with real-time reports, better operational visibility, and data-driven insights for faster decision-making.
+Key Learning
+• Chain-of-Thought improves logical reasoning.
+• ReAct combines analysis with action to improve responses.
+• Self-Consistency compares multiple answers to produce the most reliable output.
+• Selecting the right prompting technique improves AI performance.
+Conclusion
+Core prompting techniques enable AI to think logically, evaluate information, and make better decisions. Understanding these methods helps create accurate, consistent, and reliable AI-generated responses in real-world applications.
+
