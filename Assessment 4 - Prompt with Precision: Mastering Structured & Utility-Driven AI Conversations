@@ -1,0 +1,176 @@
+Assessment 4
+Topic 4 - Prompt with Precision: Mastering Structured & Utility-Driven AI Conversations
+Submitted By: Aman Dekate
+Introduction
+Structured prompting techniques improve AI responses by providing clear instructions, defining roles, controlling formatting, changing writing styles, and separating inputs using delimiters. These techniques produce accurate, organized, and practical outputs.
+1. Instruction Tuning
+Exercise 1 – Customer Reminder Email
+Subject: Software License Renewal Reminder
+
+Dear Customer,
+
+This is a friendly reminder that your software license will expire in 7 days. Please log in to your account, select 'Renew License', and complete the payment process to continue uninterrupted service.
+
+For assistance, contact support@company.com or +91-9876543210.
+
+Regards,
+Support Team
+Exercise 2 – Internal Announcement
+Dear Team,
+
+A mandatory cybersecurity training session will be held on 15 August 2026 from 10:00 AM to 12:00 PM. The session will cover phishing awareness, password security, and safe online practices. Your participation is required.
+
+Thank you for your cooperation.
+Exercise 3 – Product Description
+Our time-tracking SaaS tool helps startups monitor productivity and manage projects efficiently.
+
+It provides automated timesheets, real-time reporting, and team collaboration features.
+
+Simple to use and easy to deploy, it helps businesses save time and improve decision-making.
+Exercise 4 – Meeting Summary
+• Project deadline extended.
+• UI design approved.
+• Backend integration starts Monday.
+• QA begins after development.
+• Weekly review meetings every Friday.
+Exercise 5 – Mobile Banking FAQs
+Q1. How do I reset my password?
+Use the 'Forgot Password' option.
+
+Q2. How do I enable two-factor authentication?
+Enable it from Settings > Security.
+
+Q3. What if my account is locked?
+Contact customer support.
+
+Q4. Is mobile banking secure?
+Yes, it uses encryption and multi-factor authentication.
+2. Markdown Prompting
+Exercise 1
+# Benefits of Cloud Computing
+## Introduction
+## Benefits
+## Use Cases
+## Conclusion
+
+Exercise 2
+# Project Management Tool
+## Features
+- Task Management
+- Team Collaboration
+- Time Tracking
+- Reporting
+
+Exercise 3
+# AI Training Agenda
+## 09:00–10:00 Introduction
+## 10:00–11:30 Machine Learning
+## 11:45–01:00 Prompt Engineering
+## 02:00–03:30 Hands-on Lab
+## 03:30–04:30 Q&A
+
+Exercise 4
+# Case Study
+## Client
+## Problem
+## Solution
+## Result
+
+Exercise 5
+# FAQ
+## How do I place an order?
+Answer...
+## How do I track my order?
+Answer...
+## Can I cancel an order?
+Answer...
+## Payment methods?
+Answer...
+## Contact support?
+Answer...
+
+3. Role Prompting
+Exercise 1 – HR Manager
+Dear Employees,
+New work-from-home guidelines allow up to three remote days per week with manager approval. Please review the updated HR policy.
+Exercise 2 – Senior Technical Support Engineer
+Please verify your username and password, clear your browser cache, and reset your password if required. Contact support if the issue continues.
+Exercise 3 – Digital Marketer
+Reach your fitness goals faster with our smart fitness app. Track workouts, stay motivated, and transform your lifestyle today!
+Exercise 4 – AI Trainer
+Prompt Engineering means writing clear instructions for AI to get accurate responses. For example, asking for a 100-word explanation is more effective than asking a vague question.
+Exercise 5 – Startup CEO
+I am excited to announce our expansion into new markets. This milestone reflects our commitment to innovation and delivering greater value to our customers.
+4. Style Transfer Prompting
+Exercise 1
+Formal: Please submit the report by EOD.
+Casual: Hey! Could you please send me the report by the end of today? Thanks!
+
+Exercise 2
+Cloud computing lets you use software and store files over the internet instead of only on your computer.
+
+Exercise 3
+Boost your productivity with our powerful project management solution and achieve more every day!
+
+Exercise 4
+Big news! 🚀 We're growing fast and bringing even more exciting opportunities your way!
+
+Exercise 5
+Our platform automates daily tasks. It improves productivity and saves time. It's simple and efficient.
+
+5. Delimiter Prompting
+Exercise 1
+Instruction:
+###
+Summarize the text into five bullet points.
+###
+Input:
+###
+<Article Text>
+###
+
+Exercise 2
+Product:
+###
+AI CRM
+###
+Tone:
+###
+Professional
+###
+
+Exercise 3
+Topic:
+###
+Machine Learning
+###
+Generate five interview questions.
+
+Exercise 4
+Task 1:
+###
+Headline
+###
+Task 2:
+###
+50-word summary
+###
+
+Exercise 5
+Policy:
+###
+<Document>
+###
+Output:
+1. Summary
+2. Key Rules
+3. Risks
+
+Key Learning
+• Learned to write precise instructions.
+• Used Markdown for structured output.
+• Applied role-based communication.
+• Changed writing styles while preserving meaning.
+• Used delimiters to separate instructions from input.
+Conclusion
+Structured prompting strategies improve clarity, consistency, and usefulness of AI responses. They enable users to create professional and reliable outputs for real-world applications.
