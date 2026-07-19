@@ -1,0 +1,60 @@
+Assessment 6
+Topic 6 - Prompting Frameworks
+Submitted By: Aman Dekate
+Introduction
+Prompting frameworks provide a structured way to design clear, reusable, and effective prompts. They help define roles, context, tasks, constraints, and expected outcomes, resulting in more accurate and consistent AI responses.
+Exercise 1 – RTICFA Framework
+Prompt:
+Role: You are an experienced content writer.
+Task: Write an engaging introduction for a blog.
+Input: A mobile productivity app that helps users manage daily tasks, reminders, and schedules.
+Context: The introduction will appear on the company's official blog to introduce the app.
+Format: Write one engaging paragraph of 120–150 words.
+Audience: Beginners looking for an easy-to-use productivity app.
+Exercise 2 – ERA Framework
+Prompt:
+Expectation: Generate a polite and professional follow-up email that thanks the client, summarizes the discussion, and outlines the next steps.
+Role: You are a Business Relationship Manager.
+Action: Write a follow-up email after a client meeting.
+Exercise 3 – APEX Framework
+Prompt:
+Action: Write an Instagram post.
+Purpose: Attract local customers to the grand opening of a new café.
+Expectation: Use a friendly, promotional tone, keep it under 100 words, include relevant emojis, and finish with a call-to-action.
+Exercise 4 – TASK Framework
+Prompt:
+Task: Respond to a customer complaint about delayed delivery.
+Action: Apologize, explain the delay, and provide a resolution.
+Context: The shipment was delayed due to unexpected weather conditions, and the customer is frustrated.
+Exercise 5 – CARE Framework
+Prompt:
+Context: New employees are joining the company during onboarding.
+Action: Explain the company leave policy in simple language.
+Result: Ensure employees clearly understand the leave policy.
+Example: Include one example showing how an employee can apply for annual leave.
+Exercise 6 – RISE Framework
+Prompt:
+Role: You are an experienced technical trainer.
+Input: Explain the concept of APIs.
+Steps: Explain what an API is, how it works, why it is useful, and where it is used.
+Example: Include a simple real-world analogy such as ordering food in a restaurant.
+Exercise 7 – CASE Framework
+Prompt:
+Context: A company is hiring fresh graduates for an entry-level software engineer role.
+Action: Generate interview questions.
+Scenario: Candidates have little or no professional experience.
+Example: Include a mix of technical and behavioural interview questions.
+Exercise 8 – ACRE Framework
+Prompt:
+Audience: Company employees.
+Context: The organization will remain closed next Friday due to a public holiday.
+Request: Draft a clear internal holiday announcement.
+Example: Include a professional greeting, holiday details, and a closing wishing employees a pleasant break.
+Key Learning
+• Learned how structured frameworks improve prompt quality.
+• Understood how different frameworks fit different use cases.
+• Practiced designing complete prompts with clear roles, context, and expectations.
+• Improved the ability to create reusable prompts for business scenarios.
+Conclusion
+Prompting frameworks make AI interactions more organized, consistent, and effective. Choosing the appropriate framework helps generate accurate responses for content creation, communication, customer support, technical explanations, and business workflows.
+
